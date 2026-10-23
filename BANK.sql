@@ -148,3 +148,4 @@ insert into payment(pay_no,date,amount) values
 ("p0004",'2026-4-3',50000),
 ("p0005",'2026-3-2',50000);
 
+
